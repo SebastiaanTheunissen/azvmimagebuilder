@@ -97,7 +97,7 @@
             [
                 {   
                     "type": "SharedImage",
-                    "galleryImageId": "/subscriptions/2b6a142e-3ada-4221-8f7a-c36cb2a5b65d/resourceGroups/rg-aib-prd-001/providers/Microsoft.Compute/galleries/acg_han/images/Windows2022st",
+                    "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
                     "runOutputName": "<runOutputName>",
                     "artifactTags": {
                         "source": "win2022",
