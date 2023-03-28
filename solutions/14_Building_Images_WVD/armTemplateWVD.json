@@ -50,7 +50,7 @@
         
                 "source": {
                 "type": "ManagedImage",
-                "id": "/subscriptions/6b6b6146-591c-4251-855a-024df2efde45/resourceGroups/rg-acg-prd-001/providers/Microsoft.Compute/images/Windows2022st_Image""
+                "id": "/subscriptions/6b6b6146-591c-4251-855a-024df2efde45/resourceGroups/rg-acg-prd-001/providers/Microsoft.Compute/images/Windows2022st_Image"
             },
             "customize": [
 
