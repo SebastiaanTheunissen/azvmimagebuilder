@@ -36,13 +36,12 @@
                     "vmSize": ""Standard_D2_v2"",
                     "osDiskSizeGB": 127
                 },
+                
                 "source": {
-                    "type": "PlatformImage",
-                    "publisher": "microsoftwindowsdesktop",
-                    "offer": "office-365",
-                    "sku": "20h2-evd-o365pp",
-                    "version": "latest"
+                "type": "ManagedImage",
+                "id": "/subscriptions/6b6b6146-591c-4251-855a-024df2efde45/resourceGroups/rg-acg-prd-001/providers/Microsoft.Compute/images/Windows2022st_Image"
                 },
+                
                 "customize": [
                     {
                         "type": "PowerShell",
