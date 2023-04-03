@@ -71,8 +71,8 @@
             [
                 {   
                     "type": "SharedImage",
-                    "galleryImageId": "/subscriptions//resourceGroups/rg-aib-prd-001/providers/Microsoft.Compute/galleries/acg_han/images/win2022st",
-                    "runOutputName": "sigOutput",
+                    "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
+                    "runOutputName": "<runOutputName>",
                     "artifactTags": {
                         "source": "win2022",
                         "baseosimg": "windows2022st"
